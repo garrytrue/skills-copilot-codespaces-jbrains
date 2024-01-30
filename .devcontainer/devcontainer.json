@@ -1,1 +1,11 @@
-https://github.com/garrytrue/skills-copilot-codespaces-jbrains/tree/main
+{
+    // Name this configuration
+    "name": "Try to use Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
